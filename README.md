@@ -1,5 +1,5 @@
 ### 🙌 Hi, I'm Angel!
-🩻 Biomedical Engineer Student starting my journey into coding
+🩻 Biomedical Engineer Student starting my journey into coding </br>
 💭 Currently learning about data analytincs and machine learning
 
 ### 💻 Tech Stack  
